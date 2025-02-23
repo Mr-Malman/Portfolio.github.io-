@@ -1,19 +1,57 @@
-<h2> Hi, I'm Arya Koner! <img src="https://media.giphy.com/avatars/davidvnun/pouGxWQQDO7U/200h.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611cj1so3jtjpfa31d4367f5u50z2bfl35hs34dwdm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-<p><em>M.Sc in Digital Forensic & Cyber Security  at <a href="http://www.amity.edu">Amity University Noida</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Junior CyberCrime Investigator at <a href="https://www.edci.co.in/">EDCI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+## Hi, I'm Arya Koner! <img src="https://media.giphy.com/avatars/davidvnun/pouGxWQQDO7U/200h.gif" width="50">
 
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-3K%20Followers-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hackarya007/)
-[![GitHub Arya Koner](https://img.shields.io/github/followers/hackarya?label=follow&style=social)](https://github.com/hackarya)
-[![Facebook: Arya Koner](https://img.shields.io/badge/Facebook-4k%20Followers-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100070772073685)](https://www.facebook.com/profile.php?id=100070772073685)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat-square&logo=github)](https://hackarya.github.io/aryakoner.github.io-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3K%20Followers-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hackarya007/)
+[![GitHub](https://img.shields.io/github/followers/hackarya?label=follow&style=social)](https://github.com/hackarya)
+[![Facebook](https://img.shields.io/badge/Facebook-4K%20Followers-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070772073685)
 
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/0SLfY8DbzVcQKO0EOP/giphy.gif" width="50"> A little more about me...  
+### 🚀 Cybersecurity Professional | Digital Forensics Enthusiast | Ethical Hacker
 
-I am a dedicated cybersecurity student currently pursuing an M.Sc. in Cyber Security and Digital Forensics at Amity University, Noida. I completed my B.Sc. in Cyber Security in May 2023 at SKFGI, Kolkata. With a strong foundation in cybersecurity principles and a passion for digital defense, I continuously seek to expand my expertise in threat analysis, forensic investigation, and secure system architecture. Driven by curiosity and a commitment to safeguarding the digital world, I embrace challenges that push me to evolve both technically and strategically in the ever-evolving field of cybersecurity.
+I am a dedicated cybersecurity professional currently pursuing an **M.Sc. in Cyber Security & Digital Forensics** at **Amity University, Noida**. I hold a **B.Sc. in Cyber Security** from **SKFGI, Kolkata (2023)**. My expertise lies in **ethical hacking, digital forensics, penetration testing, incident response, and threat hunting**.
 
+- 🕵️ **Junior Cybercrime Investigator** at **EDCI** 🔍
+- 🎙 **Cybersecurity Instructor** specializing in **VAPT (Vulnerability Assessment & Penetration Testing)**
+- 🛡 **Former Guest Lecturer** on Cybersecurity & Networking
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### 💻 Technical Skills:
+
+- **🛡 Offensive Security:** Penetration Testing, Red Teaming, Exploit Development
+- **🔍 Digital Forensics:** Memory Forensics, Disk Analysis, Network Forensics, OSINT
+- **⚡ Cyber Threat Intelligence:** Threat Hunting, Malware Analysis, Reverse Engineering
+- **📡 Network Security:** IDS/IPS, Firewalls, Secure Network Design
+- **🖥️ Security Operations (SOC):** SIEM (Splunk, ELK), Incident Response
+- **🔐 Cryptography:** Encryption Algorithms, Secure Communications
+- **💾 Programming & Scripting:** Python, Bash, PowerShell
+- **🕵️ Bug Bounty & Web Security:** OWASP, SQL Injection, XSS, CSRF
+
+---
+
+### 🎯 Certifications & Courses:
+
+- ✅ **Google Cybersecurity Professional Certificate** *(Coursera)*
+- ✅ **Certified Ethical Hacker (CEH)** *(Pursuing)*
+- ✅ **Networking & Server Administration Training**
+- ✅ **Advanced VAPT Training**
+
+---
+
+### 🏆 Achievements & Contributions:
+
+- 🏅 **Winner of the Digital India Talk Show Quiz** - Amity University
+- 🎤 Conducted **multiple cybersecurity awareness sessions** at universities & institutions
+- 🔓 Researching on **Honeypots & Deception Technology**
+- 📜 Published **blogs & articles** on cybersecurity & digital forensics
+
+---
+
+### 🌐 Connect with Me:
+
+🚀 Check out my **Portfolio**: [Arya Koner - GitHub Pages](https://hackarya.github.io/aryakoner.github.io-/)  
+📩 Email me at: **arya.koner07@gmail.com**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with people! Feel free to reach out!** 😊
 
 ---
 
