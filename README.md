@@ -48,7 +48,7 @@ I am a dedicated cybersecurity professional currently pursuing an **M.Sc. in Cyb
 
 ### 🌐 Connect with Me:
 
-🚀 Check out my **Portfolio**: [Arya Koner - GitHub Pages](https://hackarya.github.io/aryakoner.github.io-/)  
+🚀 Check out my **Portfolio**: [Arya Koner - GitHub Pages](https://hackarya.github.io/Portfolio.github.io-/)  
 📩 Email me at: **arya.koner07@gmail.com**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with people! Feel free to reach out!** 😊
