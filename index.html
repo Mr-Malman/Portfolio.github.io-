@@ -3,6 +3,14 @@
 <head>
 	<title>ARYA13 | Portfolio</title>
 	<meta charset="utf-8">
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-CV4YHK8B3R"></script>
+	<script>
+	   window.dataLayer = window.dataLayer || [];
+	   function gtag(){dataLayer.push(arguments);}
+	   gtag('js', new Date());
+	   gtag('config', 'G-CV4YHK8B3R');
+	<script>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/flexslider.css">
@@ -968,9 +976,30 @@ $(document).ready(function(){
 		}
 	});
 </script>
-<footer style="text-align: center; padding: 15px; background: rgba(189, 200, 106); color: rgb(0, 0, 0);">
-    &copy; 2025 Arya Koner. All Rights Reserved.
+	
+<footer style="display: flex; justify-content: center; align-items: center; padding: 15px; background: rgba(189, 200, 106); color: rgb(0, 0, 0); position: relative;">
+    
+    <!-- Visitor Counter - Left Side -->
+    <div style="position: absolute; left: 20px; font-weight: bold;">
+        Visitors:  
+        <img src="https://hitwebcounter.com/counter/counter.php?page=hackarya-website&style=0006&nbdigits=5&type=page&initCount=0" alt="Website Visitor Counter">
+    </div>
+
+    <!-- Copyright - Centered -->
+    <div>
+        &copy; 2025 Arya Koner. All Rights Reserved.
+    </div>
+
 </footer>
+
+<!-- CSS for Visitor Counter -->
+<style>
+    .visitor-counter {
+        margin-top: 10px;  /* Adds space between copyright and counter */
+        font-weight: bold;
+        font-size: 14px;
+    }
+</style>
 
 </body>
 </html>
