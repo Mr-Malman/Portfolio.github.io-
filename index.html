@@ -978,9 +978,9 @@ $(document).ready(function(){
 	
 <footer style="display: flex; justify-content: center; align-items: center; padding: 15px; background: rgba(189, 200, 106); color: rgb(0, 0, 0); position: relative;">
     
-    <!-- Visitor Counter - Left Side (Manually Updated) -->
+    <!-- Visitor Counter - Left Side (Animated) -->
     <div class="visitor-counter" style="position: absolute; left: 15px;">
-        Visitors: <span id="visitor-count">523</span> <!-- Change Number Here -->
+        Visitors: <span id="visitor-count">0</span>
     </div>
 
     <!-- Copyright - Centered -->
@@ -989,6 +989,32 @@ $(document).ready(function(){
     </div>
     
 </footer>
+
+<!-- JavaScript for Scrolling Effect -->
+<script>
+    function animateVisitorCount(target, duration) {
+        let start = 0;
+        let end = 867; // Change this number to your desired visitor count
+        let step = 100; // Increments by 100
+        let obj = document.getElementById(target);
+        
+        let timer = setInterval(function () {
+            start += step;
+            if (start > end) {
+                start = end; // Stop at the exact number
+            }
+            obj.innerText = start.toLocaleString(); // Formatting number with commas
+            if (start == end) {
+                clearInterval(timer);
+            }
+        }, duration / (end / step));
+    }
+
+    // Run animation when page loads
+    window.onload = function() {
+        animateVisitorCount("visitor-count", 2000); // 2 seconds animation
+    };
+</script>
 
 <!-- CSS for Styling -->
 <style>
