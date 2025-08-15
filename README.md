@@ -1,6 +1,6 @@
 ## Hi, I'm Arya Koner! <img src="https://media.giphy.com/avatars/davidvnun/pouGxWQQDO7U/200h.gif" width="50">
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat-square&logo=github)](https://hackarya.github.io/Portfolio.github.io-/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat-square&logo=github)](https://mr-malman.github.io/Portfolio.github.io-/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3K%20Followers-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hackarya007/)
 [![GitHub](https://img.shields.io/github/followers/hackarya?label=follow&style=social)](https://github.com/hackarya)
 [![Facebook](https://img.shields.io/badge/Facebook-4K%20Followers-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070772073685)
@@ -48,7 +48,7 @@ I am a dedicated cybersecurity professional currently pursuing an **M.Sc. in Cyb
 
 ### 🌐 Connect with Me:
 
-🚀 Check out my **Portfolio**: [Arya Koner - Portfolio](https://hackarya.github.io/Portfolio.github.io-/)  
+🚀 Check out my **Portfolio**: [Arya Koner - Portfolio](https://mr-malman.github.io/Portfolio.github.io-/)  
 📩 Email me at: **arya.koner07@gmail.com**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with people! Feel free to reach out!** 😊
